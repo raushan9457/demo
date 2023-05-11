@@ -1,0 +1,7 @@
+git branch -M main
+git remote add origin https://github.com/raushan9457/demo.git
+git push -u origin main
+
+git remote add origin https://github.com/raushan9457/demo.git
+git branch -M main
+git push -u origin main
